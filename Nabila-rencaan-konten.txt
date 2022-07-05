@@ -4,6 +4,7 @@ RENCANA KONTEN NABILA
   * ES6
   * Framework javascript
     ^ vue
+    ^ react
 - Struktur data Besar
 - PHP frameworks
   ^ Laravel
