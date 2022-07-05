@@ -3,6 +3,7 @@ RENCANA KONTEN NABILA
 - Javascript
   * ES6
   * Framework javascript
+- Struktur data Besar
 - PHP frameworks
 - Interview
 - Vlogs
