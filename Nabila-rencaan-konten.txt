@@ -3,7 +3,9 @@ RENCANA KONTEN NABILA
 - Javascript
   * ES6
   * Framework javascript
-- Struktur data Besar
+    ^ Anguar
+    ^ Reactr
 - PHP frameworks
+  ^ Laravel
 - Interview
 - Vlogs
